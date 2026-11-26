@@ -18,6 +18,8 @@ Each record holds, for one card in one language: the card name, suit, number, el
 
 Maintained by [Nightarot](https://nightarot.com), a free online tarot site. The same texts appear on the site's card pages, for example [The Fool](https://nightarot.com/en/cards/the-fool).
 
+Also on Hugging Face: [nightarot/tarot-card-meanings](https://huggingface.co/datasets/nightarot/tarot-card-meanings).
+
 ## Files
 - `cards.jsonl`: one JSON object per line (recommended).
 - `cards.csv`: the same data as UTF-8 CSV with a header row; list fields are joined with `; `.
