@@ -51,5 +51,5 @@ fool_de = [r for r in ds if r["id"] == "the-fool" and r["lang"] == "de"][0]
 
 ## Notes and limits
 - The interpretations are original texts written for Nightarot. They follow the common Rider–Waite–Smith tradition; tarot has many schools and other readers read the cards differently.
-- Languages other than Russian and English have not all had a native-speaker review yet. Corrections are welcome (open an issue or write to hello@nightarot.com).
+- Corrections are welcome: open an issue or write to hello@nightarot.com.
 - The texts are for reflection and entertainment. They are not medical, legal or financial advice and do not predict the future.
